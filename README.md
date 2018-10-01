@@ -1,15 +1,15 @@
-* Component Library
+# Component Library
 
-Brief Description
+Brief Description to go here
 
-How to get the project running locally
+## How to get the project running locally
 
-Running the linter
+## Running the linter
 
-Running the test suite
+## Running the test suite
 
-How to contribute
+## How to contribute
 
-Link to code of conduct
+## Code of conduct
 
-Changelog
+## Changelog
