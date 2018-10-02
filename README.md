@@ -4,7 +4,7 @@ Brief Description to go here
 
 ## How to get the project running locally
 
-Clone [url=https://github.com/dlouise64/component-lib-playground]https://github.com/dlouise64/component-lib-playground[/url]
+Clone https://github.com/dlouise64/component-lib-playground
 
 ## Running the linter
 
