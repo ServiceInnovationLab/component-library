@@ -37,7 +37,7 @@
     "polished": "^2.2.0",
     "prop-types": "^15.7.2",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2",
+    "react-dom": "^16.13.0",
     "styled-components": "^4.4.1"
   },
   "dependencies": {}
